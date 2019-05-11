@@ -1,16 +1,9 @@
-# wild_cat
+# Wild Cat Drag & Drop Game
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simple Flutter Drag & Drop Game 
+<table>
+  <tr>
+    <td> <img src="https://github.com/saturu/Card-Match-Game/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-11%20at%2019.12.35.png" width = 250></td>
+    <td> <img src="https://github.com/saturu/Card-Match-Game/blob/master/images/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-11%20at%2019.12.16.png" width = 250></td>
+  </tr>
+  </table>
