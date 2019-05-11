@@ -104,18 +104,22 @@ class _ShowGameState extends State<ShowGame> {
         print(data);
           if(data == animal.name){
 
-            if(!score.contains(data)) {
-              score.add(data);
-              setState(() {
 
-              });
-            }
             return true;
           }
           else{
             return false;
           }
-      },),
+      },
+      onAccept: (data){
+        if(!score.contains(data)) {
+          score.add(data);
+          setState(() {
+
+          });
+        }
+      },
+      ),
     );
   }
 }
